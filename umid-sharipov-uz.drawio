@@ -109,6 +109,15 @@
         <mxCell id="be-U-O9A6L8kpEZBlKKN-42" value="Card-list" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="391" y="474" width="124" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-43" value="Card" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="521" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-44" value="Socials panel" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="567" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-45" value="copyright" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="612" width="124" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
