@@ -118,6 +118,12 @@
         <mxCell id="be-U-O9A6L8kpEZBlKKN-45" value="Copyright" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="391" y="612" width="124" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-48" value="Resume" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="657" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-49" value="Contact me" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="704" width="124" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
