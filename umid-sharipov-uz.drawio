@@ -94,6 +94,21 @@
         <mxCell id="be-U-O9A6L8kpEZBlKKN-35" value="Footer" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="745" width="178" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-37" value="Components" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="178" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-38" value="Navbar" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="335" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-40" value="Man button" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="381" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-41" value="Card-list" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="427" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="be-U-O9A6L8kpEZBlKKN-42" value="Card-list" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="474" width="124" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
